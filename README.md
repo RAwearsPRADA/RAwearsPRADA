@@ -57,7 +57,6 @@ A feature-rich and optimized platform for publishing and consuming news content.
 If you have any questions about my projects, job opportunities, or want to discuss a collaboration — feel free to reach out!
 
 *   **Telegram:** [@RAwearsPRADA](https://t.me)
-*   **GitHub:** [://github.com](https://://github.com)
 
 ---
 *Developed with ❤️ by RAwearsPRADA*
