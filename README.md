@@ -1,46 +1,46 @@
-# 🚀 Привет! Я @RAwearsPRADA — Fullstack Разработчик
+# 🚀 Hey there! I'm RAwearsPRADA — Fullstack Developer
 
-Добро пожаловать в мой профиль! Здесь собраны мои ключевые проекты, в которых я совмещаю современные веб-технологии, высокую производительность и real-time решения.
-
----
-
-## 🛠️ Мои Главные Проекты
-
-### 💬 Chat-G — Современный Real-Time Мессенджер
-Высокоскоростной мессенджер для мгновенного обмена сообщениями, построенный на базе передового стека.
-*   **Сайт проекта:** [GitHub Репозиторий](https://github.com/RAwearsPRADA/chat-g)
-*   **Стек технологий:** Next.js, Node.js, WebSockets (Node.js)
-*   **Ключевые фичи:** 
-    *   Мгновенная доставка сообщений без задержек через сокеты.
-    *   Быстрый и отзывчивый интерфейс на Next.js.
-    *   Архитектура, готовая к высоким нагрузкам.
-
-### 📰 Nexus — Динамический Новостной Портал
-Многофункциональная и оптимизированная платформа для публикации и чтения новостей.
-*   **Сайт проекта:** [GitHub Репозиторий](https://github.com/RAwearsPRADA/nexus)
-*   **Стек технологий:** PHP, HTML5, CSS3, JavaScript, MySQL
-*   **Ключевые фичи:**
-    *   Удобная панель управления контентом (CMS).
-    *   Быстрая генерация страниц и высокая SEO-оптимизация.
-    *   Гибкая система категорий и тегов для новостей.
+Welcome to my profile! Here you will find my key projects, where I combine modern web technologies, high performance, and real-time solutions.
 
 ---
 
-## 🧰 Технологический стек
+## 🛠️ Featured Projects
+
+### 💬 Chat-G — Modern Real-Time Messenger
+A high-speed messenger for instant messaging, built on top of a cutting-edge tech stack.
+*   **Project Link:** [GitHub Repository](https://github.com)
+*   **Tech Stack:** Next.js, Node.js, WebSockets (Node.js)
+*   **Key Features:** 
+    *   Instant message delivery with zero latency via WebSockets.
+    *   Fast and responsive user interface powered by Next.js.
+    *   Scalable architecture ready for high-load workloads.
+
+### 📰 Nexus — Dynamic News Portal
+A feature-rich and optimized platform for publishing and consuming news content.
+*   **Project Link:** [GitHub Repository](https://github.com)
+*   **Tech Stack:** PHP, HTML5, CSS3, JavaScript, MySQL
+*   **Key Features:**
+    *   User-friendly Content Management System (CMS).
+    *   Fast page rendering and strong SEO optimization.
+    *   Flexible category and tagging system for news articles.
+
+---
+
+## 🧰 Tech Stack
 
 *   **Frontend:** Next.js, React, JavaScript (ES6+), HTML5, CSS3
 *   **Backend:** Node.js, PHP
 *   **Real-time:** WebSockets
-*   **Базы данных:** MySQL / PostgreSQL
+*   **Databases:** MySQL / PostgreSQL
 
 ---
 
-## 📬 Связь со мной
+## 📬 Connect With Me
 
-Если у вас есть вопросы по проектам, предложения о работе или вы хотите обсудить коллаборацию — пишите, я всегда на связи!
+If you have any questions about my projects, job opportunities, or want to discuss a collaboration — feel free to reach out!
 
 *   **Telegram:** [@RAwearsPRADA](https://t.me)
-*   **GitHub:** [github.com/RAwearsPRADA](https://github.com/RAwearsPRADA)
+*   **GitHub:** [://github.com](https://://github.com)
 
 ---
 *Developed with ❤️ by RAwearsPRADA*
