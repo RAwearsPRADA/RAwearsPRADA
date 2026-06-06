@@ -29,7 +29,7 @@ A feature-rich and optimized platform for publishing and consuming news content.
 ## 🧰 Tech Stack & Tools
 
 ### 🌐 Frontend
-![Next.js]([https://shields.io](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii96ITkXfh2H0Z4kKOC0sRdwNC5YmL47dhILxSTXlL7JnidFgBnKaCQIn&s=10))
+![Next.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii96ITkXfh2H0Z4kKOC0sRdwNC5YmL47dhILxSTXlL7JnidFgBnKaCQIn&s=10))
 ![React](https://shields.io)
 ![TypeScript](https://shields.io)
 ![JavaScript](https://shields.io)
