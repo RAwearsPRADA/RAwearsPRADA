@@ -28,30 +28,16 @@ A feature-rich and optimized platform for publishing and consuming news content.
 
 ## 🧰 Tech Stack & Tools
 
-### 🌐 Frontend
-![Next.js](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQii96ITkXfh2H0Z4kKOC0sRdwNC5YmL47dhILxSTXlL7JnidFgBnKaCQIn&s=10))
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-
-### ⚙️ Backend & Real-Time
-![NestJS](https://shields.io)
-![Express](https://shields.io)
-![Node.js](https://shields.io)
-![WebSockets](https://shields.io)
-![PHP](https://shields.io)
-
-### 🗄️ Databases & ORM
-![PostgreSQL](https://shields.io)
-![Prisma](https://shields.io)
-![MySQL](https://shields.io)
-![Redis](https://shields.io)
-
-### 🔧 DevOps & Tools
-![Git](https://shields.io)
-![Docker](https://shields.io)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev" alt="Frontend Stack" />
+  <br><br>
+  <!-- Backend & Real-time -->
+  <img src="https://skillicons.dev" alt="Backend Stack" />
+  <br><br>
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev" alt="Databases and Tools" />
+</p>
 
 ---
 
