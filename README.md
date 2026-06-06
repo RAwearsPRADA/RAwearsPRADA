@@ -26,19 +26,29 @@ A feature-rich and optimized platform for publishing and consuming news content.
 
 ---
 
+---
+
 ## 🧰 Tech Stack & Tools
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev" alt="Frontend Stack" />
+*   **Core:** TypeScript / JavaScript (ES6+)
+*   **Frameworks:** Next.js (App & Pages Router) / React.js
+*   **Styling:** HTML5 / CSS3 / Tailwind CSS
 
 ### ⚙️ Backend & Real-Time
-<img src="https://skillicons.dev" alt="Backend Stack" />
+*   **Frameworks:** NestJS / Express.js
+*   **Runtime:** Node.js
+*   **Real-Time:** WebSockets / Engine.io
+*   **Classic Web:** PHP
 
 ### 🗄️ Databases & ORM
-<img src="https://skillicons.dev" alt="Databases Stack" />
+*   **Data Layers:** Prisma ORM
+*   **Relational DBs:** PostgreSQL / MySQL
+*   **Caching & In-Memory:** Redis
 
-### 🔧 DevOps & Tools
-<img src="https://skillicons.dev" alt="DevOps Stack" />
+### 🔧 DevOps & Workflow
+*   **Containerization:** Docker
+*   **Version Control:** Git / GitHub
 
 ---
 
