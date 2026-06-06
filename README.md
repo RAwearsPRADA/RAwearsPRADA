@@ -28,16 +28,17 @@ A feature-rich and optimized platform for publishing and consuming news content.
 
 ## 🧰 Tech Stack & Tools
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev" alt="Frontend Stack" />
-  <br><br>
-  <!-- Backend & Real-time -->
-  <img src="https://skillicons.dev" alt="Backend Stack" />
-  <br><br>
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev" alt="Databases and Tools" />
-</p>
+### 🌐 Frontend
+<img src="https://skillicons.dev" alt="Frontend Stack" />
+
+### ⚙️ Backend & Real-Time
+<img src="https://skillicons.dev" alt="Backend Stack" />
+
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev" alt="Databases Stack" />
+
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev" alt="DevOps Stack" />
 
 ---
 
