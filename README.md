@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm RAwearsPRADA — Fullstack Developer
+# 🚀 Hey there! I'm @RAwearsPRADA — Fullstack Developer
 
 Welcome to my profile! Here you will find my key projects, where I combine modern web technologies, high performance, and real-time solutions.
 
@@ -26,12 +26,32 @@ A feature-rich and optimized platform for publishing and consuming news content.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-*   **Frontend:** Next.js, React, JavaScript (ES6+), HTML5, CSS3
-*   **Backend:** Node.js, PHP
-*   **Real-time:** WebSockets
-*   **Databases:** MySQL / PostgreSQL
+### 🌐 Frontend
+![Next.js](https://shields.io)
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### ⚙️ Backend & Real-Time
+![NestJS](https://shields.io)
+![Express](https://shields.io)
+![Node.js](https://shields.io)
+![WebSockets](https://shields.io)
+![PHP](https://shields.io)
+
+### 🗄️ Databases & ORM
+![PostgreSQL](https://shields.io)
+![Prisma](https://shields.io)
+![MySQL](https://shields.io)
+![Redis](https://shields.io)
+
+### 🔧 DevOps & Tools
+![Git](https://shields.io)
+![Docker](https://shields.io)
 
 ---
 
