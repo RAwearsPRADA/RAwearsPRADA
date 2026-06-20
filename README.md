@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm @RAwearsPRADA — Fullstack Developer
+# 🚀 Hey there! I'm RAwearsPRADA — Fullstack Developer
 
 Welcome to my profile! Here you will find my key projects, where I combine modern web technologies, high performance, and real-time solutions.
 
