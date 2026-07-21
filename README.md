@@ -6,14 +6,6 @@ Welcome to my profile! Here you will find my key projects, where I combine moder
 
 ## 🛠️ Featured Projects
 
-### 💬 Chat-G — Modern Real-Time Messenger
-A high-speed messenger for instant messaging, built on top of a cutting-edge tech stack.
-*   **Project Link:** [GitHub Repository](https://github.com)
-*   **Tech Stack:** Next.js, Node.js, WebSockets (Node.js)
-*   **Key Features:** 
-    *   Instant message delivery with zero latency via WebSockets.
-    *   Fast and responsive user interface powered by Next.js.
-    *   Scalable architecture ready for high-load workloads.
 
 ### 📰 Nexus — Dynamic News Portal
 A feature-rich and optimized platform for publishing and consuming news content.
