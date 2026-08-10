@@ -1,8 +1,16 @@
 <h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer 🥷</h1>
 
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
-![Docker](https://shields.io)
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
