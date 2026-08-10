@@ -1,15 +1,25 @@
 <h1 align="center">RAwearsPRADA / High-Performance & Systems Engineer 🥷</h1>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <code><ins><b>MY TECH STACK:</b></ins></code>
+  <br><br>
+  <img src="https://github.com" width="35" title="Git/GitHub" />
+  &nbsp;&nbsp;
+  <code><b>[ C ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ Rust ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ PHP ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ TypeScript ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ JavaScript ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ Redis ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ Nginx ]</b></code>
+  &nbsp;&nbsp;
+  <code><b>[ Linux ]</b></code>
 </p>
 
 ---
