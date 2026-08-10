@@ -1,15 +1,15 @@
 <h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer 🥷</h1>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="icons/next.svg" width="45" height="45" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://githubusercontent.com" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="icons/zustand.svg" width="45" height="45" alt="Zustand" />&nbsp;&nbsp;
+  <img src="icons/rust.svg" width="45" height="45" alt="Rust" />&nbsp;&nbsp;
+  <img src="icons/go.svg" width="45" height="45" alt="Go" />&nbsp;&nbsp;
+  <img src="icons/c.svg" width="45" height="45" alt="C" />&nbsp;&nbsp;
+  <img src="icons/redis.svg" width="45" height="45" alt="Redis" />&nbsp;&nbsp;
+  <img src="icons/docker.svg" width="45" height="45" alt="Docker" />&nbsp;&nbsp;
+  <img src="icons/postgres.svg" width="45" height="45" alt="PostgreSQL" />
 </p>
 
 ---
