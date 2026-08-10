@@ -51,7 +51,3 @@ I am a 19-year-old developer focused on building high-performance backends, low-
 - **Backend & Infra:** Node.js, Redis (Pub/Sub, Queues), PostgreSQL, Docker, Nginx, Linux, GitHub Actions
 - **Concepts:** WebSockets, TCP/IP, OSI Model, Network Packet Analysis, Cryptography (ChaCha20, HMAC-SHA256)
 
----
-<p align="center">
-  <i>"Don't talk, just code." — Uchiha Vibe.</i>
-</p>
