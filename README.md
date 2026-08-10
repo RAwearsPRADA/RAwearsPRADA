@@ -1,14 +1,14 @@
 <h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer</h1>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
   <img src="https://shields.io" />
 </p>
 
