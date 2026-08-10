@@ -1,18 +1,17 @@
 <h1 align="center">RAwearsPRADA / High-Performance & Systems Engineer 🥷</h1>
 
 <p align="center">
-  🌐 <b>MY TECH STACK & SYSTEMS</b> 🌐
-  <br><br>
-  <code><b>[ ⚙️ C ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 🦀 Rust ]</b></code> &nbsp;&nbsp;
-  <code><b>[   PHP ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 📘 TypeScript ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 🟨 JavaScript ]</b></code>
-  <br><br>
-  <code><b>[ ⚛️ React ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 🛑 Redis ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 🟢 Nginx ]</b></code> &nbsp;&nbsp;
-  <code><b>[ 🐧 Linux ]</b></code>
+  <img src="icons/c.svg" width="45" height="45" alt="C" />&nbsp;&nbsp;
+  <img src="icons/rust.svg" width="45" height="45" alt="Rust" />&nbsp;&nbsp;
+  <img src="icons/ts.svg" width="45" height="45" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="icons/next.svg" width="45" height="45" alt="Next.js" />&nbsp;&nbsp;
+  <img src="icons/zustand.svg" width="45" height="45" alt="Zustand" />&nbsp;&nbsp;
+  <img src="icons/redis.svg" width="45" height="45" alt="Redis" />&nbsp;&nbsp;
+  <img src="icons/postgres.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="icons/php.svg" width="45" height="45" alt="PHP" />&nbsp;&nbsp;
+  <img src="icons/docker.svg" width="45" height="45" alt="Docker" />&nbsp;&nbsp;
+  <img src="icons/nginx.svg" width="45" height="45" alt="Nginx" />&nbsp;&nbsp;
+  <img src="icons/linux.svg" width="45" height="45" alt="Linux" />
 </p>
 
 ---
