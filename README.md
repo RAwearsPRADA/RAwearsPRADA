@@ -1,15 +1,15 @@
 <h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer</h1>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://shields.io" alt="Rust" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="C" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="Next.js" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="Redis" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://shields.io" alt="Linux" /></a>
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />&nbsp;&nbsp;
+  <img src="https://shields.io" />
 </p>
 
 
