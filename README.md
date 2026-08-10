@@ -1,15 +1,18 @@
 <h1 align="center">RAwearsPRADA / High-Performance & Systems Engineer 🥷</h1>
 
 <p align="center">
-  <img src="https://githubusercontent.com" width="40" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Rust" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="PHP" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="React" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Redis" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Nginx" />&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" width="40" height="40" alt="Linux" />
+  🌐 <b>MY TECH STACK & SYSTEMS</b> 🌐
+  <br><br>
+  <code><b>[ ⚙️ C ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 🦀 Rust ]</b></code> &nbsp;&nbsp;
+  <code><b>[   PHP ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 📘 TypeScript ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 🟨 JavaScript ]</b></code>
+  <br><br>
+  <code><b>[ ⚛️ React ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 🛑 Redis ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 🟢 Nginx ]</b></code> &nbsp;&nbsp;
+  <code><b>[ 🐧 Linux ]</b></code>
 </p>
 
 ---
