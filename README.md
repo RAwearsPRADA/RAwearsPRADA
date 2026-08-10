@@ -1,4 +1,4 @@
-<h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer 🥷</h1>
+<h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer</h1>
 
 <p align="center">
   <img src="icons/next.svg" width="45" height="45" alt="Next.js" />&nbsp;&nbsp;
