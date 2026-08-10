@@ -1,11 +1,15 @@
 <h1 align="center">RAwearsPRADA / High-Performance & Systems Engineer 🥷</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="RAwearsPRADA's GitHub stats" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
