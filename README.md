@@ -17,7 +17,9 @@
 ---
 
 ### 🚀 About Me
-I am a 19-year-old developer focused on building high-performance backends, low-level systems, and scalable fullstack applications. Instead of matching traditional HR filters with "years of commercial experience," I bypass them by writing efficient, production-ready code in **Rust**, **C**, and **TypeScript/Next.js**.
+
+I am a Systems & High-Performance Fullstack Engineer focused on building low-latency backends and scalable applications. I deliver production-ready code in **Rust**, **C**, and **TypeScript/Next.js**.
+
 
 - 🦀 **Systems Programming:** Writing memory-safe, ultra-fast asynchronous engines and native extensions.
 - 🌐 **Networking & Cyber Security:** Analyzing traffic interception, DPI/TSPU evasion, and custom packet manipulation.
