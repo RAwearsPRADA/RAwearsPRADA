@@ -29,20 +29,20 @@ I am a Systems & High-Performance Fullstack Engineer focused on building low-lat
 
 ### 🛠️ Core Projects
 
-#### 💬 [chat-g](https://github.com/chat-g) — High-Performance Real-Time Messenger
+#### 💬 [chat-g](https://github.com/RAwearsPRADA/chat-g) — High-Performance Real-Time Messenger
 *The greatest engineering challenge of my life so far. Built to handle massive concurrent connections and eliminate DB bottlenecks.*
 - **Backend & Transport:** Scalable WebSocket server built with **Rust** for near-zero latency and high-throughput communication.
 - **State Management:** Powered by **Next.js** and **Zustand** on the client, with **Redis Pub/Sub** on the backend for instant user status updates (online, typing).
 - **DB Optimization:** Implemented **Redis queues and transactions** to batch state updates and prevent persistent storage locking.
 - **Security:** In-flight room access verification, secure JWT auth, and high-speed **HMAC-SHA256** validation signatures natively processed in Rust.
 
-#### 🔒 [synapse](https://github.com/synapse) — Low-Level Network Protocol & Packet Analyzer
+#### 🔒 [synapse](https://github.com/RAwearsPRADA/synapse) — Low-Level Network Protocol & Packet Analyzer
 *An ambitious R&D project focused on low-level network packet analysis, encapsulation, and security research.*
 - **Packet Interception:** Leverages **C** and the **WinDivert** library for kernel-level network packet capturing and modification.
 - **Network Security:** Actively researching traffic obfuscation techniques and structural stream manipulation to counter packet inspection systems.
 - **Cryptography:** Implemented **ChaCha20** stream cipher for superior encryption speeds on low-power devices.
 
-#### 📰 [nexus](https://github.com/nexus) — Monolithic News Engine & CMS
+#### 📰 [nexus](https://github.com/RAwearsPRADA/nexus) — Monolithic News Engine & CMS
 *A lightweight, highly responsive news portal built to master backend fundamentals and media optimization.*
 - Built a custom CMS backend from scratch using **PHP** and **PostgreSQL**.
 - Implemented **client-side image compression** to optimize media uploads before they hit the server.
