@@ -36,10 +36,10 @@ I am a Systems & High-Performance Fullstack Engineer focused on building low-lat
 - **DB Optimization:** Implemented **Redis queues and transactions** to batch state updates and prevent persistent storage locking.
 - **Security:** In-flight room access verification, secure JWT auth, and high-speed **HMAC-SHA256** validation signatures natively processed in Rust.
 
-#### 🔒 [synapse](https://github.com) — Next-Gen Low-Level VPN
-*An ambitious R&D project to build a custom VPN protocol capable of evading modern deep packet inspection (DPI).*
+#### 🔒 [synapse](https://github.com) — Low-Level Network Protocol & Packet Analyzer
+*An ambitious R&D project focused on low-level network packet analysis, encapsulation, and security research.*
 - **Packet Interception:** Leverages **C** and the **WinDivert** library for kernel-level network packet capturing and modification.
-- **DPI Evasion:** Actively researching and developing traffic obfuscation techniques to counter advanced censorship networks (TSPU/RKN).
+- **Network Security:** Actively researching traffic obfuscation techniques and structural stream manipulation to counter packet inspection systems.
 - **Cryptography:** Implemented **ChaCha20** stream cipher for superior encryption speeds on low-power devices.
 
 #### 📰 [nexus](https://github.com) — Monolithic News Engine & CMS
