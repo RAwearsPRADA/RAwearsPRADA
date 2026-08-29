@@ -1,6 +1,6 @@
 # 💻 RAwearsPRADA
 **Backend & High-Performance Fullstack Engineer**  
-📍 *Location: Russia (Open to Remote / Relocation)*  
+📍 *Location: Russia (Open to Remote)*  
 ✈️ *Telegram: @RAwearsPRADA*  
 
 ---
