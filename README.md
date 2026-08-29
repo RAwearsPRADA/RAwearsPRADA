@@ -1,59 +1,48 @@
-<h1 align="center">RAwearsPRADA / High-Performance Fullstack & Systems Engineer</h1>
-
-<p align="center">
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />&nbsp;&nbsp;
-  <img src="https://shields.io" />
-</p>
-
-
+# RAwearsPRADA
+**Backend & High-Performance Fullstack Engineer**  
+*Location: Russia (Open to Remote / Relocation)*  
+*Telegram: @RAwearsPRADA*  
 
 ---
 
-### 🚀 About Me
-
-I am a Systems & High-Performance Fullstack Engineer focused on building low-latency backends and scalable applications. I deliver production-ready code in **Rust**, **C**, and **TypeScript/Next.js**.
-
-
-- 🦀 **Systems Programming:** Writing memory-safe, ultra-fast asynchronous engines and native extensions.
-- 🌐 **Networking & Cyber Security:** Analyzing traffic interception, DPI/TSPU evasion, and custom packet manipulation.
-- ⚡ **Highload Architecture:** Designing distributed systems with Redis Pub/Sub, messaging queues, and state synchronization.
+### PROFILE SUMMARY
+Performance-driven Full-Stack & Backend Engineer specializing in data layer optimization, distributed caching, and scalable real-time architectures. Proficient in TypeScript (Next.js / Node.js) and PostgreSQL. Experienced in offloading critical, low-latency network and transport layers to asynchronous Rust microservices to handle high concurrent loads efficiently. 
 
 ---
 
-### 🛠️ Core Projects
-
-#### 💬 [chat-g](https://github.com/RAwearsPRADA/chat-g) — High-Performance Real-Time Messenger
-*The greatest engineering challenge of my life so far. Built to handle massive concurrent connections and eliminate DB bottlenecks.*
-- **Backend & Transport:** Scalable WebSocket server built with **Rust** for near-zero latency and high-throughput communication.
-- **State Management:** Powered by **Next.js** and **Zustand** on the client, with **Redis Pub/Sub** on the backend for instant user status updates (online, typing).
-- **DB Optimization:** Implemented **Redis queues and transactions** to batch state updates and prevent persistent storage locking.
-- **Security:** In-flight room access verification, secure JWT auth, and high-speed **HMAC-SHA256** validation signatures natively processed in Rust.
-
-#### 🔒 [synapse](https://github.com/RAwearsPRADA/synapse) — Low-Level Network Protocol & Packet Analyzer
-*An ambitious R&D project focused on low-level network packet analysis, encapsulation, and security research.*
-- **Packet Interception:** Leverages **C** and the **WinDivert** library for kernel-level network packet capturing and modification.
-- **Network Security:** Actively researching traffic obfuscation techniques and structural stream manipulation to counter packet inspection systems.
-- **Cryptography:** Implemented **ChaCha20** stream cipher for superior encryption speeds on low-power devices.
-
-#### 📰 [nexus](https://github.com/RAwearsPRADA/nexus) — Monolithic News Engine & CMS
-*A lightweight, highly responsive news portal built to master backend fundamentals and media optimization.*
-- Built a custom CMS backend from scratch using **PHP** and **PostgreSQL**.
-- Implemented **client-side image compression** to optimize media uploads before they hit the server.
+### TECHNICAL SKILLS
+* **Languages:** TypeScript, JavaScript, Rust, C, SQL, PHP  
+* **Backend & Web:** Node.js (Express, NestJS), Next.js (App Router/API Routes), WebSockets, REST API  
+* **Infrastructure & DB:** PostgreSQL, Redis (Pub/Sub, Queues, Caching), Docker, Docker Compose, Linux, Nginx  
+* **Concepts:** Database Denormalization, Batching Pipelines, Real-Time Sync, Cryptography (ChaCha20, HMAC-SHA256)  
 
 ---
 
-### 🧰 Tech Stack & Tools
-- **Languages:** C, Rust, Go, TypeScript, JavaScript, PHP, SQL
-- **Frontend & State:** Next.js, React, Zustand, Tailwind CSS
-- **Backend & Infra:** Node.js, Redis (Pub/Sub, Queues), PostgreSQL, Docker, Nginx, Linux, GitHub Actions
-- **Concepts:** WebSockets, TCP/IP, OSI Model, Network Packet Analysis, Cryptography (ChaCha20, HMAC-SHA256)
+### TECHNICAL CASE STUDIES & KEY ACHIEVEMENTS
 
-### 📬 Connect with Me
-- **Telegram:** [@RAwearsPRADA] — Fast response, open for B2B partnerships, highload contracts, and architecture design.
+#### 💬 chat-g | High-Performance Real-Time Messenger (Full-Stack / Architect)
+*Designed and built a scalable, microservice-based real-time messaging platform engineered to eliminate database bottlenecks and reduce transport latency.*
+
+* **Data Layer & Query Optimization:** 
+  * **Sped up main screen data loading by ~9x** by strategically **denormalizing database schemas** and implementing highly optimized **raw SQL queries** instead of heavy ORM abstractions.
+  * Reduced primary database read overhead by introducing a distributed **Redis caching layer** for frequently accessed hot datasets (user profiles, active chat metadata).
+* **Database Write Optimization (Batching Pipeline):** 
+  * **Reduced database disk I/O by 80%** under peak simulated loads by deploying an asynchronous write pipeline. 
+  * Real-time message events are buffered inside **Redis Queues** and flushed into PostgreSQL by background workers via **bulk batch inserts** instead of execution via single atomic transactions, completely preventing table-locking issues.
+* **Transport Layer Migration (Node.js -> Rust):** 
+  * Extracted the heavy real-time WebSocket connection state management from Node.js into a dedicated asynchronous **Rust microservice**. 
+  * **Cut memory consumption by 60%** and completely eliminated single-threaded Event Loop blocking spikes during rapid concurrent connection waves.
+* **State Synchronization:** 
+  * Designed an application-level real-time data framing protocol over WebSockets. Offloaded volatile, high-frequency state updates (user online/offline status, typing indicators, read receipts) to a **Redis Pub/Sub** mechanism to ensure near-zero latency delivery.
+
+#### 🔒 synapse | Low-Level Network Protocol & Packet Analyzer (R&D / Systems)
+*An experimental systems project focused on kernel-level packet manipulation and traffic security.*
+* Developed a low-level packet capture engine in **C** leveraging the **WinDivert** library for network traffic interception and analysis.
+* Implemented a fast **ChaCha20** stream cipher mechanism optimized for lightweight, low-overhead stream encryption.
+
+---
+
+### ENGINEERING PRINCIPLES
+* **Pragmatic Tooling:** I prefer writing simple, type-safe, and maintainable TypeScript code for standard business features, migrating critical bottlenecks to compiled languages (Rust/C) only when driven by concrete performance metrics.
+* **Bottleneck-Oriented Mindset:** I optimize based on profiling logs, execution plans, and load testing data rather than clean-code dogmas or premature engineering assumptions.
+* **Full-Lifecycle Ownership:** Capable of designing database schemas, writing efficient backend logic, building responsive interfaces, and configuring production environments via Docker and Linux.
