@@ -12,7 +12,7 @@ Performance-driven Full-Stack & Backend Engineer specializing in data layer opti
 
 ### 🛠 TECHNICAL SKILLS
 * **Languages:** TypeScript, JavaScript, Rust, C, SQL  
-* **Backend & Web:** Node.js (Express, NestJS), Next.js (App Router/API Routes), WebSockets, REST API  
+* **Backend & Web:** Node.js (Express, Fastify), Next.js (App Router/API Routes), WebSockets, REST API  
 * **Infrastructure & DB:** PostgreSQL, Redis (Pub/Sub, Queues, Caching), Docker, Docker Compose, Linux, Nginx  
 * **Concepts:** Database Denormalization, Batching Pipelines, Real-Time Sync, Cryptography (ChaCha20, HMAC-SHA256)  
 
